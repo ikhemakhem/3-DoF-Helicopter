@@ -1,6 +1,6 @@
 # 3-DoF-Helicopter
 
-Contributers: Patrick Riedel, Iskandar Khemakhem and Lukas Worbs
+Contributors: Patrick Riedel, Iskandar Khemakhem and Lukas Worbs
 
 This project deals with the systematic approach to solving a complex control engineering task. 
 All steps, from mathematical modeling, through controller design and validation, to implementation on a real system, are undertaken. This approach is tested using the example of a three-degree-of-freedom helicopter. 
